@@ -1,0 +1,127 @@
+В России создан искусственный интеллект, который не даст преступникам зарабатывать на поддельных документах
+https://www.cnews.ru/news/top/2024-02-21_iskusstvennyj_intellekt_1
+
+Девелоперская компания «Главстрой Регионы» увеличила скорость обслуживания клиентов на 15%
+https://www.cnews.ru/news/line/2024-04-03_developerskaya_kompaniya_glavstroj
+
+Отпетые мошенникИИ
+https://www.kommersant.ru/doc/6616414 - рекламный прогрев документов
+
+Smart Engines проведет семинар по борьбе с мошенничеством для банков
+https://companies.rbc.ru/news/XGjlI3zf35/smart-engines-provedet-seminar-po-borbe-s-moshennichestvom-dlya-bankov/
+
+Клиенты Газпромбанка могут воспользоваться платежами по QR-кодам в интернет-банке
+https://www.novostiitkanala.ru/news/detail.php?ID=176318
+
+Кто из бизнеса определяет будущее ИИ: ключевые игроки отчитались о научных результатах за 2023 год в области искусственного интеллекта - очень много нацчных работ
+https://www.finversia.ru/publication/kto-iz-biznesa-opredelyaet-budushchee-ii-klyuchevye-igroki-otchitalis-o-nauchnykh-rezultatakh-za-2023-god-v-oblasti-iskusstvennogo-intellekta-140457
+
+Российские ученые узнали, как ускорить нейросети почти в полтора раза - 4,6-битные нейросети
+https://ria.ru/20240425/neyroset-1942180271.html
+
+Локальная REST-служба, или как за 5 минут интегрировать Smart ID Engine
+https://habr.com/ru/companies/smartengines/articles/810627/
+
+Российские ученые обучили ИИ читать свитки и книги, не раскрывая их
+https://www.cnews.ru/news/line/2024-06-03_rossijskie_uchenye_obuchili
+
+Научный потенциал российских ИИ-компаний: на пути к технологическому суверенитету
+https://russiancouncil.ru/analytics-and-comments/analytics/nauchnyy-potentsial-rossiyskikh-ii-kompaniy-na-puti-k-tekhnologicheskomu-suverenitetu/
+
+Импортозамещение
+https://www.cnews.ru/book/%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B7%D0%B0%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_-_%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_-_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%83%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%82%D0%B5%D1%82_-_%D1%80%D0%B5%D0%B6%D0%B8%D0%BC_%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BE%D0%BA_%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B8_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9
+
+Как устроены 4.6-битные сети: идея и имплементация
+https://habr.com/ru/companies/smartengines/articles/822407/
+
+От юбилея Великой Победы до экономики и безопасности: о чем шла речь в интервью Лукашенко МТРК «Мир»
+https://www.sb.by/articles/ot-yubileya-velikoy-pobedy-do-ekonomiki-i-bezopasnosti-o-chem-shla-rech-v-intervyu-lukashenko-mtrk-m.html
+— Смарт-киоск помогает упростить процедуру прохождения пограничного контроля, — объяснила представитель компании Regula Ольга Чуйкова. 
+
+Клиенты Альфа-Банка смогут распознавать счета в интернет-банке для бизнеса за 1 секунду
+https://www.gazeta.ru/business/news/2024/06/19/23279527.shtml
+
+Ученые Smart Engines представили новую модель нейросетей - биполярные морфологические сети
+https://news.myseldon.com/ru/news/index/313878212
+
+Крупнейшие российские банки заняли более четверти рынка платежей в Европе -  исключение — Газпромбанк, против которого введены секторальные ограничения.
+https://www.rbc.ru/finances/20/06/2024/667340579a79472cb390167f
+
+На ЕГЭ и ОГЭ зарабатывают доверенные лица спонсора ВСУ
+https://octagon.media/rassledovaniya/na_ege_i_oge_zarabatyvayut_doverennye_lica_sponsora_vsu.html
+
+Созданный учеными ИИ распознает рукописную прописку в паспорте для открытия счета в топовом банке
+https://www.cnews.ru/news/line/2024-07-03_sozdannyj_uchenymi_ii_raspoznaet
+
+Перейти границу у реки… Это сложно или невозможно - Белорусская компания «Regula» 
+https://topwar.ru/246817-perejti-granicu-u-reki-jeto-slozhno-ili-nevozmozhno.html
+
+«АльфаСтрахование» и Smart Engines создали отечественную систему ИИ для классификации документов - https://www.youtube.com/watch?v=tZw_DdwCxvo клип
+https://www.cnews.ru/news/line/2024-07-31_alfastrahovanie_i_smart
+
+ИИ Smart Engines был внедрен в автоматическое бюро пропусков «Ридван» - НЕДОСТУПЕН
+https://companies.rbc.ru/news/8JNszjeeBq/ii-smart-engines-byil-vnedren-v-avtomaticheskoe-byuro-propuskov-ridvan/
+
+Атомные секреты на… краудсорсинге?
+https://www.rosbalt.ru/news/2024-08-06/atomnye-sekrety-na-kraudsorsinge-5159618 - компания «Биорг»
+
+Мобильное приложении банка “Точка” использует технологии распознавания Smart Engines
+https://www.idexpert.ru/m/news/Mobilnoe-prilozhenii-banka--Tochka--ispolzuet-tekhnologii-raspoznavaniya-Smart-Engines/
+
+Российские эксперты рассказали, почему ИИ начали заменять сотрудниками из Индии
+https://hundredjournal.ru/article/2586
+
+Microsoft запустила технологию распознавания лиц Face Check для корпоративных клиентов - $0,25 за каждую проверку
+https://habr.com/ru/news/835646/ - Microsoft Verified ID с Face Check 
+
+Россияне будут открывать счета и оформлять карты через банкомат - пример кооперации
+https://eanews.ru/mir/20240819093406/rossiyane-budut-otkryvat-scheta-i-oformlyat-karty-cherez-bankomat
+
+В России создали первый банкомат с ИИ для проверки подлинности документов
+
+https://kiosksoft.ru/news/2024/08/19/v-rossii-sozdali-pervyj-bankomat-s-ii-dlya-proverki-podlinnosti-dokumentov-42888
+
+В России создан ИИ для безопасного совершения сделок
+https://corp.cnews.ru/news/line/2024-08-26_v_rossii_sozdan_ii_dlya_bezopasnogo
+
+Итоги ICDAR-2024: Как и зачем нужно делать распознавание объяснимым
+https://habr.com/ru/companies/smartengines/articles/840788/
+
+«Атомайз» и Smart Engines ускорили работу с цифровыми активами благодаря системе распознавания = блокчейн
+https://ai.cnews.ru/news/line/2024-09-12_atomajz_i_smart_engines_uskorili
+
+Ученые обучили ИИ снимать показания счетчиков за 0,1 секунды
+https://hi-tech.mail.ru/news/115121-uchenye-obuchili-ii-snimat-pokazaniya-schetchikov-za-01-sekundy/
+
+Smart Engines внедрила в «Т-Банке» технологию распознавания паспорта Белоруссии
+https://news.myseldon.com/ru/news/index/318115839
+
+Адские условия: Самый суровый краш-тест технологии распознавания паспорта
+https://habr.com/ru/companies/smartengines/articles/848130/
+
+
+https://www.youtube.com/shorts/cSmCrvXX2bA - селфи с поспортом
+
+Клиентам ВТБ стал доступен сканер умной камеры для передачи показаний счетчиков электроэнергии. Внедренная технология искусственного интеллекта распознает данные за десятую долю секунды. Новый функционал доступен для счетчиков Мосэнергосбыт при обновлении приложения ВТБ Онлайн на Android.
+https://punkt-a.info/news/oficialno/vtb-onlayn-nauchilsya-skanirovat-elektroschetchiki-i-vnosit-pokazaniya-za-klienta скан счетчики 
+
+Букмекерская контора «Марафон» выбрала систему распознавания и проверки подлинности документов Smart ID Engine
+https://www.idexpert.ru/m/news/Bukmekerskaya-kontora--Marafon--vybrala-sistemu-raspoznavaniya-i-proverki-podlinnosti-dokumentov-Sma/
+
+«МТС ID» ускорила распознавание документов с помощью сверхлегких нейросетей
+https://www.cnews.ru/news/line/2024-11-27_mts_id_uskorila_raspoznavanie
+
+Силовики пришли за персональными данными
+https://www.kommersant.ru/doc/7433381
+
+Российские ученые впервые с помощью ИИ прочитали зачеркнутые Пушкиным слова
+https://rtvi.com/news/rossijskie-uchenye-vpervye-s-pomoshhyu-ii-prochitali-zacherknutye-pushkinym-slova/
+
+«Займер» с помощью ИИ в 2024 г. предотвратил 10 тысяч попыток взять займ по чужим паспортам
+https://safe.cnews.ru/news/line/2025-03-10_zajmer_s_pomoshchyu_ii_v_2024
+
+Томографическая реконструкция реактивного двигателя в сборе: как мы это сделали?
+https://habr.com/ru/companies/smartengines/articles/887284/
+
+Первая роботизированная аптека открылась на минском ЖД вокзале
+https://ont.by/news/pervaya-robotizirovannaya-apteka-otkrylas-na-minskom-zhd-vokzale
